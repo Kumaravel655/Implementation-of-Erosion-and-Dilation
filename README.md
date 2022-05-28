@@ -17,6 +17,10 @@ Create the structuring element.
 Erode the image.
 ### Step 5:
 Dilate the image.
+ <br><br><br><br> 
+ 
+ <br><br>
+ <br><br>
  
 ## Program:
 ```
@@ -55,18 +59,17 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
+ <br><br><br><br> 
+ 
 ## Output:
 
 ### Display the input Image
-![Screenshot (148)](https://user-images.githubusercontent.com/75235334/170828874-c31146ac-441b-44ba-8d09-11833f6b61a0.png)
-
+![Screenshot (148)](https://user-images.githubusercontent.com/75235334/170829153-cd03325e-2899-4875-9d8e-8521a419bf87.png)
 ### <br><br>Display the Eroded Image
-
-![Screenshot (149)](https://user-images.githubusercontent.com/75235334/170828911-f9471a09-fd4d-468c-a771-a981585e30a4.png)
-
+ ![Screenshot (149)](https://user-images.githubusercontent.com/75235334/170829163-2ab57684-fe21-4900-b791-a65c25999ea9.png)
 
 ### Display the Dilated Image
-![Screenshot (150)](https://user-images.githubusercontent.com/75235334/170828954-c25cd7ec-5703-4080-a71f-9ba01c2670ee.png)
+ ![Screenshot (150)](https://user-images.githubusercontent.com/75235334/170829169-0bfc7938-ba6b-4d53-8b88-b5347fccd375.png)
 
-## <br><br><br><br><br><br><br><br>Result
+## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
