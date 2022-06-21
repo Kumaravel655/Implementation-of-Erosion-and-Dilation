@@ -1,4 +1,7 @@
-# Implementation-of-Erosion-and-Dilation
+### Ex.No:10
+### DATE: 
+# <p align="center">Implementation-of-Erosion-and-Dilation</p>
+# 
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 
@@ -17,7 +20,7 @@ Create the structuring element.
 Erode the image.
 ### Step 5:
 Dilate the image.
- <br><br><br><br> 
+ 
  
  <br><br>
  <br><br>
