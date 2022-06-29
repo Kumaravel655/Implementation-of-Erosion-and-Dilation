@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 # Create the Text using cv2.putText
 img1=np.zeros((300,500),dtype='uint8')
 font=cv2.FONT_ITALIC=3
-img2=cv2.putText(img1,"Kumaran",(5,70),font,3,(255),5,cv2.LINE_AA)
+img2=cv2.putText(img1,"Kumaravel",(5,70),font,3,(255),5,cv2.LINE_AA)
 cv2.imshow("Original",img2)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -51,7 +51,7 @@ kernel1=np.ones((5,5),np.uint8)
 
 # Erode the image
 erode=cv2.erode(img2,kernel1)
-cv2.imshow("Erosion1",erode)
+cv2.imshow("Erosion1",erode) 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
